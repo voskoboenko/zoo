@@ -1,0 +1,23 @@
+{
+  "name": "test",
+  "version": "0.0.0",
+  "description": "Test project",
+  "authors": [
+    "Andrey Vosokoboenko <andreyhtml1997@gmail.com>"
+  ],
+  "license": "ISC",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "*",
+    "jquery": "^3.2.1",
+    "bootstrap": "*",
+    "owl.carousel": "^2.2.1",
+    "jquery-mask-plugin": "^1.14.13"
+  }
+}

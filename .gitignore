@@ -1,0 +1,10 @@
+.idea
+/uploads
+/cache
+node_modules
+build
+bower_components
+npm-debug.log
+/w3tc-config
+db.php
+art-typo-cache/
